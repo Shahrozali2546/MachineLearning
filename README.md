@@ -7,16 +7,20 @@
 4. Data Accuracy: The car model price predict for Machine Learning Model to provide a good accuracy model is Random Forest Regressor is 89 percent Accuracy.
 
 
+## Data Set
+![3](https://github.com/user-attachments/assets/94716165-529a-4b76-9b16-0b86fb972757)
+
+## Visualize
 
 ![2](https://github.com/user-attachments/assets/e544fdf0-fa73-4189-b0e2-96a61e5509f5)
 
 
-![3](https://github.com/user-attachments/assets/94716165-529a-4b76-9b16-0b86fb972757)
 
-# GET Request
+
+## GET Request
 
 ![5](https://github.com/user-attachments/assets/01e7361a-e123-4764-83cd-fbd07def2908)
 
-# Post Request
+## Post Request
 
 ![6](https://github.com/user-attachments/assets/7f469351-b3c2-4635-90eb-84edd514249d)
