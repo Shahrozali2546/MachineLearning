@@ -10,11 +10,9 @@
 ## Data Set
 ![3](https://github.com/user-attachments/assets/94716165-529a-4b76-9b16-0b86fb972757)
 
-## Visualize
+## Visualization
 
 ![2](https://github.com/user-attachments/assets/e544fdf0-fa73-4189-b0e2-96a61e5509f5)
-
-
 
 
 ## GET Request
